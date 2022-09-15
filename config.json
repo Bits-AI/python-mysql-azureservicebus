@@ -1,0 +1,6 @@
+{
+    "server_name": "<SERVER NAME>",
+    "database_name": "<DATABASE NAME>",
+    "database_uid": "<DATABASE UID>",
+    "pwd": "<DATABASE PWD>"
+}
